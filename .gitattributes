@@ -12,3 +12,4 @@ Config filter=lfs diff=lfs merge=lfs -text
 Lyra.uproject filter=lfs diff=lfs merge=lfs -text
 Binaries filter=lfs diff=lfs merge=lfs -text
 Intermediate filter=lfs diff=lfs merge=lfs -text
+*.uasset filter=lfs diff=lfs merge=lfs -text
