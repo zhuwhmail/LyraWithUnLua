@@ -16,6 +16,7 @@ IOS/
 *.sln
 *.VC.db
 *.xcworkspace
+*.vsconfig
 /.idea
 /TPSProject.sln.DotSettings.user
 /Plugins/Developer/RiderLink
